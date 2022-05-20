@@ -108,3 +108,6 @@ body {
 .fa-github{
   color: #285AEB;
 }
+.teXt{
+  -webkit-text-stroke: 0.1px #d6249f !important;
+}
