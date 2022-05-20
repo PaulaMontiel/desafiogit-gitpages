@@ -38,7 +38,7 @@ body {
   }
 }
 .bg-cal{
-  background-image: url("../img/azul-gold.jpeg");
+  background-image: url("../img/glitter.jpeg");
   background-color: #012e46;
   background-repeat: no-repeat;
   background-size: cover;
@@ -50,7 +50,7 @@ body {
   color: aliceblue;
 }
 .bg-turq{
-  background-image: url("../img/brillo.png");
+  background-image: url("../img/glitter-btn.jpeg");
   background-color: #012e46;
   background-repeat: no-repeat;
   background-size: cover;
@@ -109,5 +109,5 @@ body {
   color: #285AEB;
 }
 .teXt{
-  -webkit-text-stroke: 0.1px #d6249f !important;
+  -webkit-text-stroke: 0.1px #5dc1b9 !important;
 }
