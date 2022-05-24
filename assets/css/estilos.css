@@ -111,3 +111,8 @@ body {
 .teXt{
   -webkit-text-stroke: 0.1px #5dc1b9 !important;
 }
+
+.card-text {
+  height: 90px;
+
+}
