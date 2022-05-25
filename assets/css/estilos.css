@@ -122,9 +122,9 @@ body {
 } 
 .accordion button{
   background-color: #112B3C !important;
+  border-radius: 5px;
 
 }
 .card .btn{
   margin-top: 10px;
- 
 }
