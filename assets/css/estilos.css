@@ -125,6 +125,10 @@ body {
   border-radius: 5px;
 
 }
-.card .btn{
-  margin-top: 10px;
+button{
+  height: 50px;
+
+}
+.accordion-button {
+  padding: 10px;
 }
