@@ -116,3 +116,16 @@ body {
   height: 90px;
 
 }
+
+.accordion img{
+  width: 80px;
+  height: 80px;
+} 
+.accordion button{
+  background-color: #112B3C !important;
+
+}
+.card .btn{
+  margin-top: 10px;
+ 
+}
