@@ -1,15 +1,17 @@
 body {
-  font-family: 'Oleo Script Swash Caps', cursive;
+  font-family: 'Oleo Script Swash Caps',sans-serif;
   color: #021d32;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpeg");
+  background-image: url("../img/vista-curauma-entorno-video.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  font-family: 'Libre Caslon Text', serif;
+
 }
 
 /* Mis trabajos */
@@ -20,7 +22,10 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+#Mis-trabajos{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+}
 /* Contacto */
 
 #Contacto form label {
@@ -38,8 +43,7 @@ body {
   }
 }
 .bg-cal{
-  background-image: url("../img/glitter.jpeg");
-  background-color: #012e46;
+  background-color: #000a23;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -50,7 +54,6 @@ body {
   color: aliceblue;
 }
 .bg-turq{
-  background-image: url("../img/glitter-btn.jpeg");
   background-color: #012e46;
   background-repeat: no-repeat;
   background-size: cover;
@@ -108,9 +111,9 @@ body {
 .fa-github{
   color: #285AEB;
 }
-.teXt{
-  -webkit-text-stroke: 0.1px #5dc1b9 !important;
-}
+/* .teXt{
+  -webkit-text-stroke: 0.1px #000a23 !important;
+} */
 
 .card-text {
   height: 90px;
